@@ -30,7 +30,7 @@ When invoked, the skill:
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/chenrongwei/trace-review.git ~/.claude/skills/trace-review
+git clone https://github.com/logicrw/trace-review.git ~/.claude/skills/trace-review
 ```
 
 Or copy `SKILL.md` into `~/.claude/skills/trace-review/`.
